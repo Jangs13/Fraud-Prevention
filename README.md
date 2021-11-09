@@ -84,8 +84,6 @@ We cite the following works:
     * Files that are used to automatically test the solution
 
 
-## License
 
-This project is licensed under the Apache-2.0 License.
 
 
